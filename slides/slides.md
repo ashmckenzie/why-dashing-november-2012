@@ -3,10 +3,10 @@
 ![dashing](dashing.png)
 
 * Dashboard framework
-* Created by the guys at [shopfiy.com](http://shopify.com)
+* Created by the guys at [shopify.com](http://shopify.com)
 * Designed to run on large displays
 * Support for multipe dashboards
-* Use HTML/CSS/JavaScript to create 'widgets'
+* Use HTML / CSS / JavaScript to create 'widgets'
 
 !SLIDE bullets
 
@@ -28,4 +28,3 @@
 * Jenkins
 * MingPong
 * Weather
-* etc
