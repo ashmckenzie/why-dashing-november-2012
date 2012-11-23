@@ -1,6 +1,6 @@
 {
-  "name": "Why another dashboard?",
-   "author": "Ash McKenzie",
+  "name": "Dashing dashboard framework",
+  "author": "Ash McKenzie",
   "templates" : {
     "default" : "default.tpl"
   },
